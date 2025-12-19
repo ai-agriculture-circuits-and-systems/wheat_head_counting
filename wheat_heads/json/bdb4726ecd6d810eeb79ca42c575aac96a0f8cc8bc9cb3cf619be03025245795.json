@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6467476160,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "bdb4726ecd6d810eeb79ca42c575aac96a0f8cc8bc9cb3cf619be03025245795.png",
+      "size": 1784746,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6024186160,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3782,
+      "bbox": [
+        773,
+        204,
+        61,
+        62
+      ]
+    },
+    {
+      "id": 6024186161,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3162,
+      "bbox": [
+        27,
+        137,
+        51,
+        62
+      ]
+    },
+    {
+      "id": 6024186162,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3294,
+      "bbox": [
+        707,
+        241,
+        54,
+        61
+      ]
+    },
+    {
+      "id": 6024186163,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7680,
+      "bbox": [
+        900,
+        536,
+        120,
+        64
+      ]
+    },
+    {
+      "id": 6024186164,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2484,
+      "bbox": [
+        826,
+        2,
+        54,
+        46
+      ]
+    },
+    {
+      "id": 6024186165,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2035,
+      "bbox": [
+        0,
+        83,
+        37,
+        55
+      ]
+    },
+    {
+      "id": 6024186166,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6699,
+      "bbox": [
+        811,
+        307,
+        87,
+        77
+      ]
+    },
+    {
+      "id": 6024186167,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7500,
+      "bbox": [
+        949,
+        307,
+        75,
+        100
+      ]
+    },
+    {
+      "id": 6024186168,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4725,
+      "bbox": [
+        937,
+        95,
+        75,
+        63
+      ]
+    },
+    {
+      "id": 6024186169,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3905,
+      "bbox": [
+        835,
+        218,
+        55,
+        71
+      ]
+    },
+    {
+      "id": 6024186170,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5328,
+      "bbox": [
+        952,
+        199,
+        72,
+        74
+      ]
+    },
+    {
+      "id": 6024186171,
+      "image_id": 6467476160,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2756,
+      "bbox": [
+        971,
+        243,
+        52,
+        53
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}

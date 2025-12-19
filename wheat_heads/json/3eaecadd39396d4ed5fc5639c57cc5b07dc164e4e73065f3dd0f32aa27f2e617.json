@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4339060134,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "3eaecadd39396d4ed5fc5639c57cc5b07dc164e4e73065f3dd0f32aa27f2e617.png",
+      "size": 1246264,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7246079134,
+      "image_id": 4339060134,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 11124,
+      "bbox": [
+        916,
+        839,
+        108,
+        103
+      ]
+    },
+    {
+      "id": 7246079135,
+      "image_id": 4339060134,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3654,
+      "bbox": [
+        965,
+        212,
+        58,
+        63
+      ]
+    },
+    {
+      "id": 7246079136,
+      "image_id": 4339060134,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 1824,
+      "bbox": [
+        967,
+        608,
+        57,
+        32
+      ]
+    },
+    {
+      "id": 7246079137,
+      "image_id": 4339060134,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4144,
+      "bbox": [
+        0,
+        532,
+        56,
+        74
+      ]
+    },
+    {
+      "id": 7246079138,
+      "image_id": 4339060134,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4928,
+      "bbox": [
+        0,
+        296,
+        56,
+        88
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}

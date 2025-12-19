@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3031235121,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "0335f10dcc43d332654fa753f2538b5bccf82bca4b9c7ce340bbed7ee910b1a8.png",
+      "size": 1842452,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5184751121,
+      "image_id": 3031235121,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 14823,
+      "bbox": [
+        790,
+        943,
+        183,
+        81
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}

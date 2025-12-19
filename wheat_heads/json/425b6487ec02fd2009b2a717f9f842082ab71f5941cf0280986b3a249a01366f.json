@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9713078135,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "425b6487ec02fd2009b2a717f9f842082ab71f5941cf0280986b3a249a01366f.png",
+      "size": 1722661,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9231520135,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5120,
+      "bbox": [
+        773,
+        308,
+        80,
+        64
+      ]
+    },
+    {
+      "id": 9231520136,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6624,
+      "bbox": [
+        250,
+        56,
+        96,
+        69
+      ]
+    },
+    {
+      "id": 9231520137,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3317,
+      "bbox": [
+        24,
+        802,
+        107,
+        31
+      ]
+    },
+    {
+      "id": 9231520138,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2397,
+      "bbox": [
+        796,
+        114,
+        51,
+        47
+      ]
+    },
+    {
+      "id": 9231520139,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9102,
+      "bbox": [
+        155,
+        30,
+        123,
+        74
+      ]
+    },
+    {
+      "id": 9231520140,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4030,
+      "bbox": [
+        255,
+        708,
+        65,
+        62
+      ]
+    },
+    {
+      "id": 9231520141,
+      "image_id": 9713078135,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8774,
+      "bbox": [
+        915,
+        603,
+        107,
+        82
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}

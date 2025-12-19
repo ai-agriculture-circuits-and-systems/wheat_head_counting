@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5289429137,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "4b931f3971c88bf5fae0aeb56f5f71ad611805f44d707c4f67857438a9fc2050.png",
+      "size": 1427377,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2896511137,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2793,
+      "bbox": [
+        670,
+        945,
+        57,
+        49
+      ]
+    },
+    {
+      "id": 2896511138,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5795,
+      "bbox": [
+        668,
+        708,
+        95,
+        61
+      ]
+    },
+    {
+      "id": 2896511139,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6255,
+      "bbox": [
+        767,
+        844,
+        45,
+        139
+      ]
+    },
+    {
+      "id": 2896511140,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4368,
+      "bbox": [
+        853,
+        677,
+        84,
+        52
+      ]
+    },
+    {
+      "id": 2896511141,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4332,
+      "bbox": [
+        323,
+        632,
+        57,
+        76
+      ]
+    },
+    {
+      "id": 2896511142,
+      "image_id": 5289429137,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4108,
+      "bbox": [
+        590,
+        937,
+        79,
+        52
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}

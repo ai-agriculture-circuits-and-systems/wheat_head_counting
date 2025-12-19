@@ -1,0 +1,763 @@
+{
+  "info": {
+    "description": "Wheat head counting dataset",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Agricultural AI",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7137034167,
+      "width": 1024,
+      "height": 1024,
+      "file_name": "db1933338e1bec4778db34bde122651ca776e0adc85c5d513b38729a53df0d51.png",
+      "size": 2528549,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3721791167,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4700,
+      "bbox": [
+        0,
+        658,
+        47,
+        100
+      ]
+    },
+    {
+      "id": 3721791168,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 26865,
+      "bbox": [
+        840,
+        157,
+        135,
+        199
+      ]
+    },
+    {
+      "id": 3721791169,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5775,
+      "bbox": [
+        380,
+        365,
+        75,
+        77
+      ]
+    },
+    {
+      "id": 3721791170,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 12495,
+      "bbox": [
+        429,
+        803,
+        147,
+        85
+      ]
+    },
+    {
+      "id": 3721791171,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 18848,
+      "bbox": [
+        684,
+        420,
+        152,
+        124
+      ]
+    },
+    {
+      "id": 3721791172,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 13184,
+      "bbox": [
+        143,
+        802,
+        128,
+        103
+      ]
+    },
+    {
+      "id": 3721791173,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 2240,
+      "bbox": [
+        996,
+        415,
+        28,
+        80
+      ]
+    },
+    {
+      "id": 3721791174,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7392,
+      "bbox": [
+        843,
+        595,
+        77,
+        96
+      ]
+    },
+    {
+      "id": 3721791175,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 15375,
+      "bbox": [
+        537,
+        0,
+        125,
+        123
+      ]
+    },
+    {
+      "id": 3721791176,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6885,
+      "bbox": [
+        653,
+        292,
+        85,
+        81
+      ]
+    },
+    {
+      "id": 3721791177,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5600,
+      "bbox": [
+        662,
+        924,
+        80,
+        70
+      ]
+    },
+    {
+      "id": 3721791178,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8976,
+      "bbox": [
+        545,
+        611,
+        102,
+        88
+      ]
+    },
+    {
+      "id": 3721791179,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 19886,
+      "bbox": [
+        480,
+        738,
+        163,
+        122
+      ]
+    },
+    {
+      "id": 3721791180,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9064,
+      "bbox": [
+        399,
+        284,
+        103,
+        88
+      ]
+    },
+    {
+      "id": 3721791181,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9072,
+      "bbox": [
+        108,
+        150,
+        108,
+        84
+      ]
+    },
+    {
+      "id": 3721791182,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3010,
+      "bbox": [
+        221,
+        981,
+        70,
+        43
+      ]
+    },
+    {
+      "id": 3721791183,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8614,
+      "bbox": [
+        153,
+        416,
+        118,
+        73
+      ]
+    },
+    {
+      "id": 3721791184,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 16440,
+      "bbox": [
+        519,
+        352,
+        137,
+        120
+      ]
+    },
+    {
+      "id": 3721791185,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5346,
+      "bbox": [
+        901,
+        412,
+        99,
+        54
+      ]
+    },
+    {
+      "id": 3721791186,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 12090,
+      "bbox": [
+        199,
+        45,
+        62,
+        195
+      ]
+    },
+    {
+      "id": 3721791187,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6083,
+      "bbox": [
+        884,
+        758,
+        77,
+        79
+      ]
+    },
+    {
+      "id": 3721791188,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6111,
+      "bbox": [
+        961,
+        705,
+        63,
+        97
+      ]
+    },
+    {
+      "id": 3721791189,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6150,
+      "bbox": [
+        718,
+        548,
+        75,
+        82
+      ]
+    },
+    {
+      "id": 3721791190,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7740,
+      "bbox": [
+        539,
+        150,
+        86,
+        90
+      ]
+    },
+    {
+      "id": 3721791191,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9579,
+      "bbox": [
+        305,
+        32,
+        93,
+        103
+      ]
+    },
+    {
+      "id": 3721791192,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7372,
+      "bbox": [
+        740,
+        607,
+        76,
+        97
+      ]
+    },
+    {
+      "id": 3721791193,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 10506,
+      "bbox": [
+        599,
+        828,
+        103,
+        102
+      ]
+    },
+    {
+      "id": 3721791194,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8591,
+      "bbox": [
+        715,
+        656,
+        71,
+        121
+      ]
+    },
+    {
+      "id": 3721791195,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8463,
+      "bbox": [
+        403,
+        142,
+        93,
+        91
+      ]
+    },
+    {
+      "id": 3721791196,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 9700,
+      "bbox": [
+        292,
+        745,
+        100,
+        97
+      ]
+    },
+    {
+      "id": 3721791197,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 17424,
+      "bbox": [
+        748,
+        763,
+        144,
+        121
+      ]
+    },
+    {
+      "id": 3721791198,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 1564,
+      "bbox": [
+        1001,
+        956,
+        23,
+        68
+      ]
+    },
+    {
+      "id": 3721791199,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 11375,
+      "bbox": [
+        75,
+        806,
+        65,
+        175
+      ]
+    },
+    {
+      "id": 3721791200,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4914,
+      "bbox": [
+        678,
+        224,
+        78,
+        63
+      ]
+    },
+    {
+      "id": 3721791201,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 19481,
+      "bbox": [
+        711,
+        327,
+        253,
+        77
+      ]
+    },
+    {
+      "id": 3721791202,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6384,
+      "bbox": [
+        284,
+        967,
+        112,
+        57
+      ]
+    },
+    {
+      "id": 3721791203,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6816,
+      "bbox": [
+        515,
+        894,
+        96,
+        71
+      ]
+    },
+    {
+      "id": 3721791204,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 5328,
+      "bbox": [
+        950,
+        543,
+        74,
+        72
+      ]
+    },
+    {
+      "id": 3721791205,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7332,
+      "bbox": [
+        645,
+        707,
+        94,
+        78
+      ]
+    },
+    {
+      "id": 3721791206,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 4489,
+      "bbox": [
+        793,
+        423,
+        67,
+        67
+      ]
+    },
+    {
+      "id": 3721791207,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6882,
+      "bbox": [
+        309,
+        670,
+        93,
+        74
+      ]
+    },
+    {
+      "id": 3721791208,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6912,
+      "bbox": [
+        500,
+        268,
+        108,
+        64
+      ]
+    },
+    {
+      "id": 3721791209,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7952,
+      "bbox": [
+        284,
+        418,
+        112,
+        71
+      ]
+    },
+    {
+      "id": 3721791210,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 3055,
+      "bbox": [
+        800,
+        0,
+        47,
+        65
+      ]
+    },
+    {
+      "id": 3721791211,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 11125,
+      "bbox": [
+        935,
+        243,
+        89,
+        125
+      ]
+    },
+    {
+      "id": 3721791212,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 10848,
+      "bbox": [
+        610,
+        67,
+        113,
+        96
+      ]
+    },
+    {
+      "id": 3721791213,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8400,
+      "bbox": [
+        423,
+        18,
+        120,
+        70
+      ]
+    },
+    {
+      "id": 3721791214,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6693,
+      "bbox": [
+        314,
+        585,
+        97,
+        69
+      ]
+    },
+    {
+      "id": 3721791215,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 25024,
+      "bbox": [
+        743,
+        96,
+        272,
+        92
+      ]
+    },
+    {
+      "id": 3721791216,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 8755,
+      "bbox": [
+        788,
+        876,
+        85,
+        103
+      ]
+    },
+    {
+      "id": 3721791217,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 11865,
+      "bbox": [
+        55,
+        261,
+        105,
+        113
+      ]
+    },
+    {
+      "id": 3721791218,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 6032,
+      "bbox": [
+        402,
+        512,
+        104,
+        58
+      ]
+    },
+    {
+      "id": 3721791219,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 12950,
+      "bbox": [
+        109,
+        581,
+        74,
+        175
+      ]
+    },
+    {
+      "id": 3721791220,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 7400,
+      "bbox": [
+        950,
+        843,
+        74,
+        100
+      ]
+    },
+    {
+      "id": 3721791221,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 10260,
+      "bbox": [
+        392,
+        948,
+        135,
+        76
+      ]
+    },
+    {
+      "id": 3721791222,
+      "image_id": 7137034167,
+      "category_id": 1,
+      "segmentation": [],
+      "area": 12276,
+      "bbox": [
+        840,
+        0,
+        99,
+        124
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "wheat_head",
+      "supercategory": "broccoli"
+    }
+  ]
+}
